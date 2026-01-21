@@ -1,5 +1,5 @@
 streamlit
 pandas
-ta
 python-binance
-plotly
+ta
+
